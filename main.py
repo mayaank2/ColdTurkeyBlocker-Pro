@@ -1,14 +1,4 @@
-"""
-Get Pro Subscription of Cold Turkey Blocker.
 
-Author: Anshul Raj Verma
-Github: https://github.com/arv-anshul
-
-Check Also
-----------
-`ColdTurkeyBlocker-Disable`: Disable all blocker at once.
-https://github.com/arv-anshul/ColdTurkeyBlocker-Disable
-"""
 
 import json
 import logging
